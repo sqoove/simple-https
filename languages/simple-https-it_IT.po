@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Simple HTTPS 2.2.7\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/simple-https\n"
 "Last-Translator: NeosLab <support@neoslab.com>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language-Team: Italiano <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -18,56 +18,56 @@ msgstr ""
 #: simple-https.php
 #: admin/class-simple-https-admin.php:74
 msgid "Simple HTTPS"
-msgstr ""
+msgstr "Simple HTTPS"
 
 #. Plugin URI of the plugin
 #: simple-https.php
 msgid "https://wordpress.org/plugins/simple-https/"
-msgstr ""
+msgstr "https://wordpress.org/plugins/simple-https/"
 
 #. Description of the plugin
 #: simple-https.php
 msgid "Correct your SSL/HTTPS issue within few clicks and enable HTTP Strict Transport Security for your website."
-msgstr ""
+msgstr "Correggi i problemi SSL/HTTPS in pochi clic e abilita HTTP Strict Transport Security per il tuo sito."
 
 #. Author of the plugin
 #: simple-https.php
 msgid "NeosLab"
-msgstr ""
+msgstr "NeosLab"
 
 #. Author URI of the plugin
 #: simple-https.php
 msgid "https://neoslab.com"
-msgstr ""
+msgstr "https://neoslab.com"
 
 #: admin/class-simple-https-admin.php:86
 msgid "Settings"
-msgstr ""
+msgstr "Impostazioni"
 
 #: admin/partials/simple-https-admin-options.php:4
 msgid "Your settings have been successfully updated."
-msgstr ""
+msgstr "Le impostazioni sono state aggiornate con successo."
 
 #: admin/partials/simple-https-admin-options.php:18
 msgid "Your current <b>Permalink Settings</b> structure is set to <b>Plain</b>. In order force the SSL certificate, you must choice another <a href=\""
-msgstr ""
+msgstr "L’attuale struttura delle <b>Impostazioni permalink</b> è impostata su <b>Semplice</b>. Per forzare il certificato SSL, devi scegliere un’altra <a href=\""
 
 #: admin/partials/simple-https-admin-options.php:33
 msgid "Force HTTPS"
-msgstr ""
+msgstr "Forza HTTPS"
 
 #: admin/partials/simple-https-admin-options.php:41
 msgid "Do you want to force SSL redirection for this website ?"
-msgstr ""
+msgstr "Vuoi forzare il reindirizzamento SSL per questo sito?"
 
 #: admin/partials/simple-https-admin-options.php:45
 msgid "Strict Transport Security"
-msgstr ""
+msgstr "HTTP Strict Transport Security (HSTS)"
 
 #: admin/partials/simple-https-admin-options.php:53
 msgid "Enable HTTP Strict Transport Security for this website ?"
-msgstr ""
+msgstr "Abilitare HTTP Strict Transport Security per questo sito?"
 
 #: admin/partials/simple-https-admin-options.php:56
 msgid "Update Settings"
-msgstr ""
+msgstr "Aggiorna impostazioni"

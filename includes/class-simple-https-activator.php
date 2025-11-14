@@ -2,7 +2,7 @@
 /**
  * Fired during plugin activation
  *
- * @link https://neoslab.com
+ * @link https://sqoove.com
  * @since 1.0.0
  *
  * @package Simple_HTTPS
@@ -15,7 +15,7 @@
  * @since 1.0.0
  * @package Simple_HTTPS
  * @subpackage Simple_HTTPS/includes
- * @author NeosLab <contact@neoslab.com>
+ * @author Sqoove <support@sqoove.com>
 */
 class Simple_HTTPS_Activator
 {

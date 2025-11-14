@@ -5,7 +5,7 @@
  * A class definition that includes attributes and functions used across both the
  * public-facing side of the site and the admin area.
  *
- * @link https://neoslab.com
+ * @link https://sqoove.com
  * @since 1.0.0
  *
  * @package Simple_HTTPS
@@ -17,7 +17,7 @@
  * @since 1.0.0
  * @package Simple_HTTPS
  * @subpackage Simple_HTTPS/includes
- * @author NeosLab <contact@neoslab.com>
+ * @author Sqoove <support@sqoove.com>
 */
 class Simple_HTTPS
 {

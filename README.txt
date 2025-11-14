@@ -1,5 +1,5 @@
 === Simple HTTPS ===
-Contributors: NeosLab
+Contributors: Sqoove
 Tags: ssl, redirect, https, ssl fix, TLS
 Requires at least: 4.9
 Tested up to: 6.8.2

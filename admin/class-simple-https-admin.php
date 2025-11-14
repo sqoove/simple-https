@@ -2,7 +2,7 @@
 /**
  * The admin-specific functionality of the plugin
  *
- * @link https://neoslab.com
+ * @link https://sqoove.com
  * @since 1.0.0
  * @package Simple_HTTPS
  * @subpackage Simple_HTTPS/admin
@@ -12,7 +12,7 @@
  * Class `Simple_HTTPS_Admin`
  * @package Simple_HTTPS
  * @subpackage Simple_HTTPS/admin
- * @author NeosLab <contact@neoslab.com>
+ * @author Sqoove <support@sqoove.com>
 */
 class Simple_HTTPS_Admin
 {

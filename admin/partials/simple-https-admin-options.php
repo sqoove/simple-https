@@ -5,21 +5,21 @@ if((isset($_GET['output'])) && ($_GET['output'] === 'updated'))
 }
 ?>
 <div class="wrap">
-    <section class="wpbnd-wrapper">
-        <div class="wpbnd-container">
-            <div class="wpbnd-tabs">
+    <section class="wpdx-wrapper">
+        <div class="wpdx-container">
+            <div class="wpdx-tabs">
                 <?php echo $this->return_plugin_header(); ?>
                 <main class="tabs-main">
                     <?php echo $this->return_tabs_menu('tab1'); ?>
                     <section class="tab-section">
                         <?php if(empty(get_option('permalink_structure'))) { ?>
-                        <div class="wpbnd-notice wrong">
+                        <div class="wpdx-notice wrong">
                             <span class="close-btn" onclick="this.parentElement.style.display='none';">&times;</span>
                             <span><?php echo _e('Your current <b>Permalink Settings</b> structure is set to <b>Plain</b>. In order force the SSL certificate, you must choice another <a href="'.get_admin_url().'options-permalink.php">permalink format</a> here.', 'simple-https'); ?></span>
                         </div>
                         <?php } ?>
                         <?php if(isset($notice)) { ?>
-                        <div class="wpbnd-notice <?php echo esc_attr($notice[0]); ?>">
+                        <div class="wpdx-notice <?php echo esc_attr($notice[0]); ?>">
                             <span class="close-btn" onclick="this.parentElement.style.display='none';">&times;</span>
                             <span><?php echo esc_attr($notice[1]); ?></span>
                         </div>
@@ -27,7 +27,7 @@ if((isset($_GET['output'])) && ($_GET['output'] === 'updated'))
                         <form method="POST">
                             <input type="hidden" name="shs-update-option" value="true" />
                             <?php wp_nonce_field('shs-referer-form', 'shs-referer-option'); ?>
-                            <div class="wpbnd-form">
+                            <div class="wpdx-form">
                                 <div class="field">
                                     <?php $fieldID = uniqid(); ?>
                                     <span class="label"><?php echo _e('Force HTTPS', 'simple-https'); ?></span>

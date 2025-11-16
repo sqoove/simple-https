@@ -2,8 +2,8 @@
 Contributors: Sqoove
 Tags: ssl, redirect, https, ssl fix, TLS
 Requires at least: 4.9
-Tested up to: 6.8.2
-Stable tag: 2.2.7
+Tested up to: 6.8.3
+Stable tag: 2.2.8
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -24,6 +24,11 @@ Simple HTTPS automatically detects if your website run properly over HTTPS and f
 1. A general view of the plugin "options" page.
 
 == Changelog ==
+
+= 2.2.8 (2025-11-16) =
+* Added WPML support for page content
+* Code revision and optimization
+* Security and performance audit
 
 = 2.2.7 (2025-04-25) =
 * Code revision and optimization

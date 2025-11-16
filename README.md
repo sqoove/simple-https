@@ -29,6 +29,12 @@ Simple HTTPS automatically detects if your website runs properly over HTTPS and 
 
 ## Changelog
 
+### 2.2.8 (2025-11-16)
+
+- Added WPML support for page content
+- Code revision and optimization
+- Security and performance audit
+
 ### 2.2.7 (2025-04-25)
 
 - Code revision and optimization

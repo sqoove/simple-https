@@ -50,7 +50,7 @@ msgstr "Le impostazioni sono state aggiornate con successo."
 
 #: admin/partials/simple-https-admin-options.php:18
 msgid "Your current <b>Permalink Settings</b> structure is set to <b>Plain</b>. In order force the SSL certificate, you must choice another <a href=\""
-msgstr "L’attuale struttura delle <b>Impostazioni permalink</b> è impostata su <b>Semplice</b>. Per forzare il certificato SSL, devi scegliere un’altra <a href=\""
+msgstr "L'attuale struttura delle <b>Impostazioni permalink</b> è impostata su <b>Semplice</b>. Per forzare il certificato SSL, devi scegliere un'altra <a href=\""
 
 #: admin/partials/simple-https-admin-options.php:33
 msgid "Force HTTPS"

@@ -3,7 +3,7 @@ Contributors: Sqoove
 Tags: ssl, redirect, https, ssl fix, TLS
 Requires at least: 4.9
 Tested up to: 6.8.3
-Stable tag: 2.2.9
+Stable tag: 2.3.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -24,6 +24,9 @@ Simple HTTPS automatically detects if your website run properly over HTTPS and f
 1. A general view of the plugin "options" page.
 
 == Changelog ==
+
+= 2.3.0 (2025-12-01) =
+* Code revision and optimization
 
 = 2.2.9 (2025-11-19) =
 * Fontawesome update

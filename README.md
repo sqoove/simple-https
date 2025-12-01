@@ -29,6 +29,15 @@ Simple HTTPS automatically detects if your website runs properly over HTTPS and 
 
 ## Changelog
 
+### 2.3.0 (2025-12-01)
+
+- Code revision and optimization
+
+### 2.2.9 (2025-11-19)
+
+- Fontawesome update
+- Code revision and optimization
+
 ### 2.2.8 (2025-11-16)
 
 - Added WPML support for page content
